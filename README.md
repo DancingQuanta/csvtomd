@@ -73,7 +73,9 @@ Danerys   |Targaryen|Meereen          |House Targaryen
 Tyrion    |Lannister|King's Landing   |House Lannister
 ```
 
-Example with added pipe symbols either side of each row
+## Example with added pipe symbols either side of each row
+
+### Example Markdown table
 
 |First Name  |  Last Name  |  Location           |  Allegiance     |
 |------------|-------------|---------------------|-----------------|
@@ -82,6 +84,16 @@ Example with added pipe symbols either side of each row
 |Danerys     |  Targaryen  |  Meereen            |  House Targaryen|
 |Tyrion      |  Lannister  |  King's Landing     |  House Lannister|
 
+### Example raw output
+
+```
+|First Name  |  Last Name  |  Location           |  Allegiance     |
+|------------|-------------|---------------------|-----------------|
+|Mance       |  Rayder     |  North of the Wall  |  Wildlings      |
+|Margaery    |  Tyrell     |  The Reach          |  House Tyrell   |
+|Danerys     |  Targaryen  |  Meereen            |  House Targaryen|
+|Tyrion      |  Lannister  |  King's Landing     |  House Lannister|
+```
 
 ## Requirements
 
